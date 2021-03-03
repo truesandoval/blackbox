@@ -1,0 +1,12 @@
+{
+  "name": "blackbox",
+  "displayName": "blackbox",
+  "expo": {
+    "name": "blackbox",
+    "slug": "blackbox",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
