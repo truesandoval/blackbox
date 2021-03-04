@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89174589154",
+    "project_id": "blackbox-1b3ac",
+    "storage_bucket": "blackbox-1b3ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89174589154:android:41c6f0d58d9cbf58cf68bb",
+        "android_client_info": {
+          "package_name": "com.blackbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89174589154-od390rd7ot6ir3huc8kuv51lkfa4q3il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLxGD2p753D-qoEZtBCBjAAvNKyOmncyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89174589154-od390rd7ot6ir3huc8kuv51lkfa4q3il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
